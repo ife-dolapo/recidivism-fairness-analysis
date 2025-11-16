@@ -1,0 +1,9 @@
+Requirements
+- Python 3.8+
+- scikit-learn
+- pandas
+- matplotlib
+- seaborn
+- shap
+- lime
+- fairlearn
